@@ -1,4 +1,4 @@
-# Read This Befor Start
+# Read This Before Start
 
 ## Library I'm Using
   1. Firebase ESP8266 client, from https://github.com/mobizt/Firebase-ESP8266
