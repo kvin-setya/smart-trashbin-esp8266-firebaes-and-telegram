@@ -17,6 +17,8 @@ here's the component we need to build this project:
   5. **Jumper Cable**
 
 ## Image
+![Image](Wiring_Diagram_Smart_trahsbin.jpg "Wiring Diagram")
+![Image](system_workflow_diagram.png "System Workflow")
 
 ## POST SCRIPT
 you can just read the code, i have put the explanation there
