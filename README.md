@@ -31,5 +31,15 @@ Thanks for people who has shared powerful library...
 ![Image](Wiring_Diagram_Smart_trahsbin.jpg "Wiring Diagram")
 ![Image](system_workflow_diagram.png "System Workflow")
 
+## Thanks To
+  1. The Libraries Developer
+  2. My Friends  
+    - Reza Fahlepi  
+    - Bagas Martinus Rianu  
+    - Arif Rakhman Charis  
+    - Surya Ningsih  
+
+
 ## POST SCRIPT
 you can just read the code, i have put the explanation there
+
