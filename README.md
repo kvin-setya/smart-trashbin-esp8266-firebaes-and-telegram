@@ -36,7 +36,7 @@ Thanks for people who has shared powerful library...
   2. My Friends  
     - Reza Fahlepi  
     - Bagas Martinus Rianu  
-    - Arif Rakhman Charis  
+    - Arif Rakhman Charis  @kintaara <br>
     - Surya Ningsih  
 
 
